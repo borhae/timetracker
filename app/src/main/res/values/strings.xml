@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">TimeTracker</string>
+    <string name="project_a">Project A</string>
+    <string name="project_b">Project B</string>
+    <string name="project_c">Project C</string>
+    <string name="log_title">Log</string>
+</resources>
